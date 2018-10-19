@@ -6,7 +6,7 @@
     "autosuggest-highlight": "^3.1.1",
     "classnames": "^2.2.5",
     "clipboard-polyfill": "^2.4.1",
-    "connected-react-router": "^4.3.0",
+    "connected-react-router": "^4.5.0",
     "dexie": "^2.0.0",
     "fitvids": "^2.0.0",
     "immutable": "^3.8.1",
